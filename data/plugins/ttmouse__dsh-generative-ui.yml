@@ -1,0 +1,6 @@
+url: https://github.com/ttmouse/dsh-generative-ui
+name: ttmouse/dsh-generative-ui
+category: ui
+description:
+  en: Extracts generative-ui fenced blocks from assistant replies and renders each as a self-contained interactive page in a sandboxed, opaque-origin iframe inline under the turn, streaming while the block is still being written, with no backend and theme colors sampled from the host.
+  zh: 把 AI 回复里的 generative-ui 围栏提取为内嵌的可交互页面，逐个跑在无 same-origin 的沙箱 iframe 里；围栏未写完即开始流式渲染，纯客户端零后端，配色自动采样宿主深浅色主题。
